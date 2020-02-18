@@ -1,0 +1,5 @@
+[rtlauncher:container$] INFO Container start took 24512. Ready to accept admin requests.
+Feb 13, 2020 7:18:38 PM org.hsqldb.persist.Logger logInfoEvent
+INFO: Database closed
+
+

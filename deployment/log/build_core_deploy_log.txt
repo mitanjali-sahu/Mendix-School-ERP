@@ -1,0 +1,11 @@
+Buildfile: C:\Users\mitan\Documents\Mendix\School ERP-main_2\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 32 files to C:\Users\mitan\Documents\Mendix\School ERP-main_2\deployment
+     [copy] Copying 33 files to C:\Users\mitan\Documents\Mendix\School ERP-main_2\deployment\model\lib\userlib
+     [copy] Copying 1 file to C:\Users\mitan\Documents\Mendix\School ERP-main_2\deployment\model\resources
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+
+

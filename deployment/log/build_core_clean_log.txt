@@ -1,0 +1,10 @@
+Buildfile: C:\Users\mitan\Documents\Mendix\School ERP-main_2\deployment\build_core.xml
+
+clean:
+   [delete] Deleting directory C:\Users\mitan\Documents\Mendix\School ERP-main_2\deployment\model
+   [delete] Deleting directory C:\Users\mitan\Documents\Mendix\School ERP-main_2\deployment\run
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+
+
